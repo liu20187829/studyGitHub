@@ -1,2 +1,2 @@
 # studyGithub
-学习studyGithub
+学习studyGitHub
